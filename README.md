@@ -1,8 +1,7 @@
 ![image](images/Programmer(noun).gif)
 
 ## 🌱  **About Me** 
-- Pronouns: She/Her
-- I'm currently working on developing a sudoku game in React-Native and TypeScript
+- I'm currently working on developing a sudoku game in React-Native and TypeScript for fun.
 - I'm always looking to learn new things, but work primarily in Front-end and Full-Stack development.
 - Fun Fact: I love to paint, and I like to bring that style into my designs and colour schemes
 
@@ -18,7 +17,7 @@
  [![name](images/gmail.svg)](mailto:whitneydluhosh@gmail.com)
  [![name](images/linkedIn.svg)](https://www.linkedin.com/in/whitney-dluhosh-40934a165)
 
-## 😂  **Coding Jokes**
+## 😂  **Coding Puns**
 >Where is a programmers favourite place to hangout?<br/>***Foo Bar***
 
 <br/>

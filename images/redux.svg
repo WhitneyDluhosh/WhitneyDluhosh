@@ -10,7 +10,7 @@
 
     <g clip-path="url(#a)">
         <path fill="#555" d="M0 0h25v20H0z"/>
-        <path fill="#e3bec6" d="M25 0h47v20H25z"/>
+        <path fill="#EE9595" d="M25 0h47v20H25z"/>
         <path fill="url(#b)" d="M0 0h72v20H0z"/>
     </g>
     <g fill="#fff"
