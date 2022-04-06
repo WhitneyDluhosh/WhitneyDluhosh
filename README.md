@@ -1,9 +1,9 @@
 ![image](images/Programmer(noun).gif)
 
 ## 🌱  **About Me** 
-- I'm currently working on developing a sudoku game in React-Native and TypeScript for fun.
+- Most recently I've been working in React Native using TypeScript, Javascript, Redux, creating supporting api's using Python and Node JS, and utilizing database like MongoDB and PostgreSQL.
 - I'm always looking to learn new things, but work primarily in Front-end and Full-Stack development.
-- Fun Fact: I love to paint, and I like to bring that style into my designs and colour schemes
+- Fun Fact: I love to paint, and I like to bring that creativity into my front-end designs.
 
 ## 🔧  **Technologies & Tools**
 ![image](images/node.svg)
@@ -11,6 +11,9 @@
 ![image](images/javascript.svg) ![image](images/mysql.svg) ![image](images/redux.svg) ![image](images/postgresql.svg)
 ![image](images/expoDev.svg) ![image](images/visual_studio_code.svg) ![image](images/androidStudio.svg)
 ![image](images/typescript.svg)![image](images/angular.svg)
+![image](images/html.svg)![image](images/css.svg)
+![image](images/mongodb.svg)![image](images/openshift.svg)
+![image](images/sharepoint.svg)
 
 
 ## ✉️  **Reach Me**
