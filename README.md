@@ -2,7 +2,7 @@
 
 ## 🌱  **About Me** 
 - Most recently I've been working in React Native using TypeScript, Javascript, Redux, creating supporting API's using Python and Node JS, and utilizing databases such as MongoDB and PostgreSQL.
-- I'm always looking to learn new skills and languages, but have been working primarilsy in Front-end and Full-Stack development.
+- I'm always looking to learn new skills and languages, but have been working primarily in Front-end and Full-Stack development.
 - Fun Fact: I love to paint, and I like to bring that creativity into my front-end designs.
 
 ## 🔧  **Technologies & Tools**
