@@ -10,7 +10,7 @@
 ![image](images/react.svg) ![image](images/java.svg) ![image](images/python.svg)
 ![image](images/javascript.svg) ![image](images/mysql.svg) ![image](images/redux.svg) ![image](images/postgresql.svg)
 ![image](images/expoDev.svg) ![image](images/visual_studio_code.svg) ![image](images/androidStudio.svg)
-![image](images/typescript.svg)![image](images/angular.svg)
+![image](images/typescript.svg)
 ![image](images/html.svg)![image](images/css.svg)
 ![image](images/mongodb.svg)![image](images/openshift.svg)
 ![image](images/sharepoint.svg)
